@@ -1,0 +1,80 @@
+@font-face
+{
+  font-family: 'HaloHandletter';
+  font-weight: normal;
+  font-style: normal;
+  src: url('HaloHandletter.woff') format('woff');
+  unicode-range: U+20-21,
+  U+3F,
+  U+41-5A,
+  U+61-7A;
+}
+@font-face
+{
+  font-family: Montserrat;
+  /*src: url('https://fonts.googleapis.com/css?family=Montserrat') format('woff');*/
+}
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  clear: both;
+}
+p
+{
+  font-family: 'proxima-nova', sans-serif;
+}
+h1
+{
+  font-family: 'proxima-nova',sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+h2
+{
+  font-family: 'proxima-nova',sans-serif;
+  font-size: 21px;
+  font-weight: 600;
+}
+h3
+{
+  font-family: 'proxima-nova',sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+h4
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #ff7478;
+}
+h5
+{
+  font-family: 'HaloHandletter';
+  font-size: 42px;
+  margin: 0 0 20px 0;
+}
+h6
+{
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+.hwid-field-group.hwid-pink
+{
+  color: #fff;
+  background: #ff7478;
+}
+/*body,
+button,
+input,
+select,
+textarea
+{
+  font-size: 14pt;
+}*/
