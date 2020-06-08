@@ -1,1 +1,1 @@
-# Wordpress Theme for https://www.12oaksdesserts.com/
+# Wordpress Theme for www.12oaksdesserts.com
